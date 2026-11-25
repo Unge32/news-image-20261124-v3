@@ -1,0 +1,482 @@
+{
+ "date_check": {
+  "check": "Calendar-verified: 24 Nov 2026 is a Tuesday; 23 Nov 2026 was a Monday. All 36 stories happened or were first reported on 24 Nov 2026 (any time zone).",
+  "day": "Tuesday 24 November 2026",
+  "previous_day": "Monday 23 November 2026",
+  "sources_note": "Sources: Reuters, AP, CNN, NY Post, ISW, CAS, GDACS, Gavi, ASEAN, ANC, Al Jazeera, MercoPress. Full list in SOURCES.md."
+ },
+ "edition": {
+  "competition": "news-image-20261124",
+  "date": "2026-11-24",
+  "date_label": "Tuesday 24 November 2026",
+  "fields": [
+   "Politics",
+   "War & Conflict",
+   "Courts & Justice",
+   "Trade & Economy",
+   "Diplomacy",
+   "Science & Space",
+   "Health",
+   "Energy & Climate",
+   "Sport",
+   "Technology",
+   "Disasters",
+   "Society & Culture"
+  ],
+  "regions": [
+   "North America",
+   "South America",
+   "Europe",
+   "Africa",
+   "Middle East",
+   "South Asia",
+   "East Asia",
+   "Southeast Asia",
+   "Oceania"
+  ],
+  "title": "Tuesday 24 November 2026 World Frontpage: 36 Dated Stories, 9 Regions, 12 Fields, 12 Vector Scenes, UTC Timeline & Date-Check Audit",
+  "vector_scenes": [
+   "globe",
+   "tanker-mine",
+   "trophy",
+   "rocket",
+   "gavel",
+   "quake",
+   "turbine",
+   "lizard",
+   "turkey",
+   "medal",
+   "drone-ship",
+   "handshake"
+  ],
+  "weekday": "Tuesday"
+ },
+ "stories": [
+  {
+   "detail": "Bank fraud, wire fraud, Iran sanctions.",
+   "field": "Courts & Justice",
+   "headline": "Huawei guilty on 10 of 12 counts in Brooklyn jury verdict",
+   "icon": "gavel",
+   "id": 1,
+   "region": "North America",
+   "source": "Reuters",
+   "utc": "20:41",
+   "date": "2026-11-24"
+  },
+  {
+   "detail": "Oval Office ceremony; Giuliani called “America’s Mayor”. Highest civilian honour.",
+   "field": "Politics",
+   "headline": "Trump awards Medal of Freedom to Rudy Giuliani",
+   "icon": "medal",
+   "id": 2,
+   "region": "North America",
+   "source": "NY Post",
+   "utc": "15:30",
+   "date": "2026-11-24"
+  },
+  {
+   "detail": "Annual White House lawn rite before Thanksgiving; Speaker Mike Johnson attended.",
+   "field": "Society & Culture",
+   "headline": "Trump pardons Thanksgiving turkeys Freedom and Feathers",
+   "icon": "turkey",
+   "id": 3,
+   "region": "North America",
+   "source": "Breitbart / AP",
+   "utc": "14:00",
+   "date": "2026-11-24"
+  },
+  {
+   "detail": "Section 301 probe on excess capacity; China, EU, India, Japan, South Korea named.",
+   "field": "Trade & Economy",
+   "headline": "US weighs new tariffs on 16 trading partners",
+   "icon": "handshake",
+   "id": 4,
+   "region": "North America",
+   "source": "Hindu BusinessLine",
+   "utc": "22:51",
+   "date": "2026-11-24"
+  },
+  {
+   "detail": "Armed men seized a supermarket in Cartagena, Colombia, President de la Espriella said.",
+   "field": "War & Conflict",
+   "headline": "Gunmen hold 25 hostages at Cartagena supermarket",
+   "icon": "drone-ship",
+   "id": 5,
+   "region": "South America",
+   "source": "Daily Summary Of",
+   "utc": "17:35",
+   "date": "2026-11-24"
+  },
+  {
+   "detail": "Blast near the Meta governor’s office damaged buildings in central Colombia.",
+   "field": "Disasters",
+   "headline": "Car bomb in Villavicencio wounds 23 in Colombia",
+   "icon": "quake",
+   "id": 6,
+   "region": "South America",
+   "source": "Astrova News",
+   "utc": "12:00",
+   "date": "2026-11-24"
+  },
+  {
+   "detail": "Light aircraft down in the Gulf of Mexico with six people unaccounted for.",
+   "field": "Disasters",
+   "headline": "Small plane crashes into Gulf of Mexico; 6 missing",
+   "icon": "drone-ship",
+   "id": 7,
+   "region": "South America",
+   "source": "Astrova News",
+   "utc": "18:00",
+   "date": "2026-11-24"
+  },
+  {
+   "detail": "Finance Ministry: inflation 3.8% to 4.5%; growth cut to 1.8% for 2027.",
+   "field": "Trade & Economy",
+   "headline": "Brazil lifts 2027 inflation forecast to 4.5%, cuts growth",
+   "icon": "handshake",
+   "id": 8,
+   "region": "South America",
+   "source": "MercoPress",
+   "utc": "10:00",
+   "date": "2026-11-24"
+  },
+  {
+   "detail": "Cargo vessel struck in the Gulf of Finland on 21 Nov; multinational tow under way.",
+   "field": "War & Conflict",
+   "headline": "Ukraine confirms drone hit on Russian ship Sparta II",
+   "icon": "drone-ship",
+   "id": 9,
+   "region": "Europe",
+   "source": "h.ua / AP",
+   "utc": "13:12",
+   "date": "2026-11-24"
+  },
+  {
+   "detail": "Overnight attack; four children among the wounded, officials said on Tuesday.",
+   "field": "War & Conflict",
+   "headline": "Russian strike on Zaporizhzhia kills 2, wounds 44",
+   "icon": "quake",
+   "id": 10,
+   "region": "Europe",
+   "source": "AP",
+   "utc": "05:35",
+   "date": "2026-11-24"
+  },
+  {
+   "detail": "Fuel export curbs and subsidies imposed; Moscow says market “challenging”.",
+   "field": "War & Conflict",
+   "headline": "Putin admits Ukraine strikes cut Russian refining ~30%",
+   "icon": "turbine",
+   "id": 11,
+   "region": "Europe",
+   "source": "ISW",
+   "utc": "11:00",
+   "date": "2026-11-24"
+  },
+  {
+   "detail": "Peter Magyar met President Zelenskyy in Uzhhorod; energy, transport, minority rights.",
+   "field": "Diplomacy",
+   "headline": "Hungary PM Magyar makes first visit to Ukraine",
+   "icon": "handshake",
+   "id": 12,
+   "region": "Europe",
+   "source": "h.ua",
+   "utc": "11:40",
+   "date": "2026-11-24"
+  },
+  {
+   "detail": "Court overturns CAF award to Morocco.",
+   "field": "Sport",
+   "headline": "CAS gives Senegal back the AFCON 2025 title",
+   "icon": "trophy",
+   "id": 13,
+   "region": "Africa",
+   "source": "CAS / AP",
+   "utc": "15:51",
+   "date": "2026-11-24"
+  },
+  {
+   "detail": "Mines minister Louis Watum: foreign miners must open units to Congolese shareholders.",
+   "field": "Trade & Economy",
+   "headline": "DR Congo to force miners to share local units by January",
+   "icon": "gavel",
+   "id": 14,
+   "region": "Africa",
+   "source": "OkayAfrica",
+   "utc": "09:00",
+   "date": "2026-11-24"
+  },
+  {
+   "detail": "Oxford / Serum Institute vaccine for Bundibugyo strain, now in trials in DR Congo.",
+   "field": "Health",
+   "headline": "Gavi to buy up to 1.5m Ebola vaccine doses for DR Congo",
+   "icon": "medal",
+   "id": 15,
+   "region": "Africa",
+   "source": "OkayAfrica",
+   "utc": "08:00",
+   "date": "2026-11-24"
+  },
+  {
+   "detail": "Contact lost on Sunday; rebels claim they shot the aircraft down.",
+   "field": "Disasters",
+   "headline": "DR Congo hunts missing Cessna 208 cargo plane",
+   "icon": "drone-ship",
+   "id": 16,
+   "region": "Africa",
+   "source": "OkayAfrica",
+   "utc": "07:00",
+   "date": "2026-11-24"
+  },
+  {
+   "detail": "IRGC: three tankers hit mines, then a fourth.",
+   "field": "War & Conflict",
+   "headline": "Iran: four tankers hit mines in Strait of Hormuz",
+   "icon": "tanker-mine",
+   "id": 17,
+   "region": "Middle East",
+   "source": "Daily Summary Of",
+   "utc": "02:09",
+   "date": "2026-11-24"
+  },
+  {
+   "detail": "Second strike on the financial district in under a week; flights cancelled.",
+   "field": "War & Conflict",
+   "headline": "Houthi strike hits Riyadh PIF tower; 11 wounded",
+   "icon": "tanker-mine",
+   "id": 18,
+   "region": "Middle East",
+   "source": "Astrova News",
+   "utc": "16:00",
+   "date": "2026-11-24"
+  },
+  {
+   "detail": "Naeem Abu Nahel, head of Hamas internal security, killed in a Gaza City strike.",
+   "field": "War & Conflict",
+   "headline": "Israel kills Hamas security chief Abu Nahel in Gaza",
+   "icon": "gavel",
+   "id": 19,
+   "region": "Middle East",
+   "source": "Daily Summary Of",
+   "utc": "06:00",
+   "date": "2026-11-24"
+  },
+  {
+   "detail": "Yemen military: fighters near the temporary capital; UK sanctions four officials.",
+   "field": "War & Conflict",
+   "headline": "Houthis 60 km from Aden and ready to attack",
+   "icon": "drone-ship",
+   "id": 20,
+   "region": "Middle East",
+   "source": "Daily Summary Of",
+   "utc": "16:51",
+   "date": "2026-11-24"
+  },
+  {
+   "detail": "GDACS green alert: 2.3m people within 100 km; depth about 10 km; no deaths reported.",
+   "field": "Disasters",
+   "headline": "Magnitude 5.3 quake strikes Nepal near China border",
+   "icon": "quake",
+   "id": 21,
+   "region": "South Asia",
+   "source": "GDACS",
+   "utc": "01:32",
+   "date": "2026-11-24"
+  },
+  {
+   "detail": "Fourth straight win in the Women’s Asian Champions Trophy; Japan next on 25 Nov.",
+   "field": "Sport",
+   "headline": "India beat China 6-2 in women’s hockey in Bhopal",
+   "icon": "trophy",
+   "id": 22,
+   "region": "South Asia",
+   "source": "The NewsWire",
+   "utc": "17:00",
+   "date": "2026-11-24"
+  },
+  {
+   "detail": "Ousted PM Sheikh Hasina to return from exile on Victory Day despite death sentence.",
+   "field": "Politics",
+   "headline": "Hasina plans return to Bangladesh on 16 December",
+   "icon": "handshake",
+   "id": 23,
+   "region": "South Asia",
+   "source": "AP",
+   "utc": "19:00",
+   "date": "2026-11-24"
+  },
+  {
+   "detail": "Muhammad Zeeshan Ali to be first Pakistani astronaut, flying on China’s Shenzhou-24.",
+   "field": "Science & Space",
+   "headline": "Pakistan’s Zeeshan Ali set for historic space flight",
+   "icon": "rocket",
+   "id": 24,
+   "region": "South Asia",
+   "source": "Starlit Daily",
+   "utc": "21:43",
+   "date": "2026-11-24"
+  },
+  {
+   "detail": "Two Chinese crew plus Pakistan's Zeeshan Ali.",
+   "field": "Science & Space",
+   "headline": "China launches Shenzhou-24 to Tiangong station",
+   "icon": "rocket",
+   "id": 25,
+   "region": "East Asia",
+   "source": "AP",
+   "utc": "22:55",
+   "date": "2026-11-24"
+  },
+  {
+   "detail": "Politburo member Chen Jining investigated; fourth Politburo member probed since 2025.",
+   "field": "Courts & Justice",
+   "headline": "China opens graft probe into Shanghai chief Chen Jining",
+   "icon": "gavel",
+   "id": 26,
+   "region": "East Asia",
+   "source": "Al Jazeera",
+   "utc": "22:34",
+   "date": "2026-11-24"
+  },
+  {
+   "detail": "Warplanes sent up; air-raid alerts sounded on Ulleung island in the East Sea.",
+   "field": "War & Conflict",
+   "headline": "South Korea scrambles jets as Russian planes near airspace",
+   "icon": "drone-ship",
+   "id": 27,
+   "region": "East Asia",
+   "source": "Starlit Daily",
+   "utc": "16:26",
+   "date": "2026-11-24"
+  },
+  {
+   "detail": "Swiss diplomat ordered to leave after sanctions on a youth camp linked to Russia.",
+   "field": "Diplomacy",
+   "headline": "North Korea orders Switzerland to shut Pyongyang office",
+   "icon": "handshake",
+   "id": 28,
+   "region": "East Asia",
+   "source": "AP",
+   "utc": "23:26",
+   "date": "2026-11-24"
+  },
+  {
+   "detail": "Gas explosion in Dong Da district; more feared buried in the debris.",
+   "field": "Disasters",
+   "headline": "Hanoi hotpot restaurant blast kills 6, hurts 10",
+   "icon": "quake",
+   "id": 29,
+   "region": "Southeast Asia",
+   "source": "Starlit Daily",
+   "utc": "20:24",
+   "date": "2026-11-24"
+  },
+  {
+   "detail": "Including 1,500 Rohingya refugees held on navy vessels, officials said.",
+   "field": "Society & Culture",
+   "headline": "Malaysia to return 6,803 Myanmar nationals in December",
+   "icon": "handshake",
+   "id": 30,
+   "region": "Southeast Asia",
+   "source": "Astrova News",
+   "utc": "13:00",
+   "date": "2026-11-24"
+  },
+  {
+   "detail": "11th AMMin opens with 8 deliverables; chair Arthur Joseph Kurup urges value-added push.",
+   "field": "Trade & Economy",
+   "headline": "ASEAN minerals ministers meet in Kuala Lumpur",
+   "icon": "gavel",
+   "id": 31,
+   "region": "Southeast Asia",
+   "source": "WiseVoter",
+   "utc": "09:00",
+   "date": "2026-11-24"
+  },
+  {
+   "detail": "Supreme Court dismisses petitions against Rodrigo Duterte’s transfer to The Hague.",
+   "field": "Courts & Justice",
+   "headline": "Philippines court rejects challenges to Duterte ICC arrest",
+   "icon": "gavel",
+   "id": 32,
+   "region": "Southeast Asia",
+   "source": "ANC",
+   "utc": "11:00",
+   "date": "2026-11-24"
+  },
+  {
+   "detail": "PM Matthew Wale told Beijing the 2022 pact will not renew; Australia treaty to follow.",
+   "field": "Diplomacy",
+   "headline": "Solomon Islands drops China security pact for Australia",
+   "icon": "globe",
+   "id": 33,
+   "region": "Oceania",
+   "source": "Reuters",
+   "utc": "04:47",
+   "date": "2026-11-24"
+  },
+  {
+   "detail": "Google and Meta face Digital Duty of Care fines; users gain right to sue platforms.",
+   "field": "Technology",
+   "headline": "Australia threatens Big Tech fines of 5% of revenue",
+   "icon": "gavel",
+   "id": 34,
+   "region": "Oceania",
+   "source": "Reuters",
+   "utc": "14:04",
+   "date": "2026-11-24"
+  },
+  {
+   "detail": "Mercury’s 12-turbine wind farm officially opens; $287 million build.",
+   "field": "Energy & Climate",
+   "headline": "NZ opens $287m Kaiwaikawe wind farm in Northland",
+   "icon": "turbine",
+   "id": 35,
+   "region": "Oceania",
+   "source": "Te Puke Today",
+   "utc": "08:00",
+   "date": "2026-11-24"
+  },
+  {
+   "detail": "Niho taniwha return after 30 years in care at Auckland Zoo; NZ’s longest lizard.",
+   "field": "Science & Space",
+   "headline": "NZ releases 11 rare lizards on Aotea Island",
+   "icon": "lizard",
+   "id": 36,
+   "region": "Oceania",
+   "source": "Te Puke Today",
+   "utc": "09:00",
+   "date": "2026-11-24"
+  }
+ ],
+ "timeline": [
+  {
+   "label": "Nepal quake",
+   "utc": "01:32"
+  },
+  {
+   "label": "Hormuz mines",
+   "utc": "02:09"
+  },
+  {
+   "label": "Solomons pact",
+   "utc": "04:47"
+  },
+  {
+   "label": "Magyar in Kyiv",
+   "utc": "11:40"
+  },
+  {
+   "label": "Senegal champs",
+   "utc": "15:51"
+  },
+  {
+   "label": "Huawei",
+   "utc": "20:41"
+  },
+  {
+   "label": "Shenzhou-24",
+   "utc": "22:55"
+  }
+ ]
+}
